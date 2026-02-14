@@ -1,29 +1,18 @@
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██╗   ██╗ █████╗ ███╗   ██╗    ██████╗ ██████╗  █████╗ ██╗████████╗      ║
-║   ╚██╗ ██╔╝██╔══██╗████╗  ██║    ██╔══██╗██╔══██╗██╔══██╗██║╚══██╔══╝      ║
-║    ╚████╔╝ ███████║██╔██╗ ██║    ██████╔╝██████╔╝███████║██║   ██║         ║
-║     ╚██╔╝  ██╔══██║██║╚██╗██║    ██╔══██╗██╔══██╗██╔══██║██║   ██║         ║
-║      ██║   ██║  ██║██║ ╚████║    ██████╔╝██║  ██║██║  ██║██║   ██║         ║
-║      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝         ║
-║                                                                              ║
-║                        Full Stack Software Engineer                          ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
+
+# YAN BRAIT
+
+### Full Stack Software Engineer
 
 **`Python`** • **`Django`** • **`React`** • **`TypeScript`** • **`PostgreSQL`**
 
-</div>
-
 ---
 
-## 📋 Profile
+</div>
 
-Senior Full Stack Developer with expertise in building scalable web applications and distributed systems. Specialized in backend architecture, API design, and modern frontend development. Focused on clean code, performance optimization, and delivering production-ready solutions.
+## 📋 About
+
+Senior Full Stack Developer specializing in scalable web applications and distributed systems. Expertise in backend architecture, API design, and modern frontend development. Focused on clean code, performance optimization, and production-ready solutions.
 
 ## 🛠 Technology Stack
 
@@ -37,15 +26,16 @@ Architecture     │  RESTful APIs • WebSocket • Microservices • Real-time
 ## 💼 Featured Project
 
 **OkoZnaniy Platform** — Academic Work Management System
+
 ```
 ├─ Real-time communication with WebSocket
 ├─ Advanced admin dashboard with analytics
 ├─ Payment gateway integration
 ├─ Role-based access control
-└─ Tech: Django + DRF • React • TypeScript • PostgreSQL • Redis • Docker
+└─ Stack: Django + DRF • React • TypeScript • PostgreSQL • Redis • Docker
 ```
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -69,7 +59,7 @@ status: Open to interesting projects and collaborations
 
 <div align="center">
 
-**`Building reliable software, one commit at a time`**
+**Building reliable software, one commit at a time**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Br1Im&color=58a6ff&style=flat-square&label=Profile+Views)
 
