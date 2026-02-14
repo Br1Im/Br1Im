@@ -17,57 +17,45 @@
 
 </div>
 
-## 📋 About
+## 📋 О себе
 
-Senior Full Stack Developer specializing in scalable web applications and distributed systems. Expertise in backend architecture, API design, and modern frontend development. Focused on clean code, performance optimization, and production-ready solutions.
+Full Stack разработчик, специализируюсь на масштабируемых веб-приложениях и распределенных системах. Экспертиза в backend-архитектуре, проектировании API и современной frontend-разработке. Фокус на чистом коде, оптимизации производительности и production-ready решениях.
 
-## 🛠 Technology Stack
+## 🛠 Технологический стек
 
 ```text
 Backend          │  Python • Django • Django REST Framework • PostgreSQL • Redis
 Frontend         │  React • TypeScript • JavaScript • HTML5 • CSS3
-Infrastructure   │  Docker • Nginx • Linux • Git
-Architecture     │  RESTful APIs • WebSocket • Microservices • Real-time Systems
+Инфраструктура   │  Docker • Nginx • Linux • Git
+Архитектура      │  RESTful APIs • WebSocket • Микросервисы • Real-time системы
 ```
 
-## 💼 Featured Project
+## 💼 Основной проект
 
-**OkoZnaniy Platform** — Academic Work Management System
+**Платформа OkoZnaniy** — Система управления академическими работами
 
 ```
-├─ Real-time communication with WebSocket
-├─ Advanced admin dashboard with analytics
-├─ Payment gateway integration
-├─ Role-based access control
-└─ Stack: Django + DRF • React • TypeScript • PostgreSQL • Redis • Docker
+├─ Real-time коммуникация через WebSocket
+├─ Продвинутая админ-панель с аналитикой
+├─ Интеграция платежных систем
+├─ Ролевая модель доступа
+└─ Стек: Django + DRF • React • TypeScript • PostgreSQL • Redis • Docker
 ```
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Br1Im&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&count_private=true&include_all_commits=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Br1Im&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Br1Im&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
-
-</div>
-
-## 📫 Contact
+## 📫 Контакты
 
 ```yaml
 email: YanBrait@yandex.ru
 github: github.com/Br1Im
-status: Open to interesting projects and collaborations
+статус: Открыт для интересных проектов и коллабораций
 ```
 
 ---
 
 <div align="center">
 
-**Building reliable software, one commit at a time**
+**Создаю надежное ПО, один коммит за раз**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Br1Im&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Br1Im&color=58a6ff&style=flat-square&label=Просмотров+профиля)
 
 </div>
